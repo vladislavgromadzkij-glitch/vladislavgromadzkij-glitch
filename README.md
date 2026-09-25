@@ -1,31 +1,31 @@
-# Привет, я Влад! 👋
+# Hi, I'm Vlad! 👋
 
 <a href="https://github.com/vladislavgromadzkij-glitch">
-  <img src="https://media.tenor.com/Pibg5g2YVUEAAAAi/linux-tux-rotate.gif" width="140" align="right" alt="Вращающийся Tux">
+  <img src="https://media.giphy.com/media/xT8qBfCcnBwN3RFTsQ/giphy.gif" width="140" align="right" alt="Space Astronaut">
 </a>
 
-Я разработчик, который любит разбираться в архитектуре и том, как всё работает «под капотом». Фокусируюсь на производительности, правильном синтаксисе и понимании механики работы памяти, а не на заучивании шаблонов. Меня глубоко интересуют низкоуровневое программирование, высоконагруженные системы и кибербезопасность.
+I'm a developer who loves diving into software architecture and figuring out how things work "under the hood". I focus on performance, clean syntax, and understanding memory mechanics rather than just memorizing templates. I have a deep interest in low-level programming, high-load systems, and cybersecurity.
 
-### 🎓 Образование и Олимпиады
-- Учусь в **10-м IT-классе школы 1329**.
-- Прохожу обучение в **IT Школе Samsung**, **Кампусе Инноваций** и **МШП**.
-- Активно участвую в олимпиадном программировании (ВСОШ, Высшая проба, НТО).
-- Призер 1-й степени и обладатель 1-го места в командной олимпиаде.
+### 🎓 Education & Competitive Programming
+- 10th-grade IT student at **School 1329**.
+- Studying at **Samsung IT School Innovation Campus** and **Moscow Coding School (MSP)**.
+- Active participant in competitive programming (VSOSH, Vysshaya Proba, NTO).
+- 1st-degree diploma winner and 1st place in a team programming olympiad.
 
-### 💻 Что я делаю сейчас
-- Разрабатываю собственный **децентрализованный p2p-мессенджер**.
-- Готовлюсь к поступлению на международные программы бакалавриата (США).
+### 💻 What I'm doing now
+- Developing a custom **decentralized p2p messenger**.
+- Preparing for international undergraduate programs (USA).
 
-### 🛠 Мой стек и инструменты
+### 🛠 Tech Stack & Tools
 
-**Языки программирования:**<br>
+**Languages:**<br>
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-**Системы и окружение:**<br>
+**Environment:**<br>
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-*«Я отказываюсь писать то, чего не знаю — важно понимать, почему код написан именно так и как это сказывается на производительности».*
+*«I refuse to write what I don't understand — it is crucial to know why the code is written a certain way and how it impacts performance.»*
