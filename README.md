@@ -1,6 +1,5 @@
 # Hi, I'm Vlad! 👋
 
-<img src="https://github.com/user-attachments/assets/e2889024-6134-40e9-9b8d-5309c85338ac" width="280" align="right" alt="Space Shuttle">
 
 I'm a developer who loves diving into software architecture and figuring out how things work "under the hood". I focus on performance, clean syntax, and understanding memory mechanics rather than just memorizing templates. I have a deep interest in low-level programming, high-load systems, and cybersecurity.
 
@@ -22,11 +21,11 @@ I'm a developer who loves diving into software architecture and figuring out how
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
+<img src="https://github.com/user-attachments/assets/e2889024-6134-40e9-9b8d-5309c85338ac" width="280" align="right" alt="Space Shuttle">
 **Environment:**<br>
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 *«I refuse to write what I don't understand — it is crucial to know why the code is written a certain way and how it impacts performance.»*
-<img src="https://github.com/user-attachments/assets/e2889024-6134-40e9-9b8d-5309c85338ac" width="280" align="right" alt="Space Shuttle">
+
