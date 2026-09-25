@@ -1,10 +1,14 @@
 # Hi, I'm Vlad! 👋
 
 <a href="https://github.com/vladislavgromadzkij-glitch">
-  <img src="https://media.giphy.com/media/xT8qBfCcnBwN3RFTsQ/giphy.gif" width="140" align="right" alt="Space Astronaut">
+  <img src="https://media.tenor.com/Pibg5g2YVUEAAAAi/linux-tux-rotate.gif" width="140" align="right" alt="Linux Tux">
 </a>
 
+<img src="СЮДА_ВСТАВЬ_ПРЯМУЮ_ССЫЛКУ_НА_КОТА" width="140" align="left" alt="Space Cat">
+
 I'm a developer who loves diving into software architecture and figuring out how things work "under the hood". I focus on performance, clean syntax, and understanding memory mechanics rather than just memorizing templates. I have a deep interest in low-level programming, high-load systems, and cybersecurity.
+
+<br clear="both">
 
 ### 🎓 Education & Competitive Programming
 - 10th-grade IT student at **School 1329**.
