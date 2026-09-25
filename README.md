@@ -14,14 +14,14 @@ I'm a developer who loves diving into software architecture and figuring out how
 ### 💻 What I'm doing now
 - Developing a custom **decentralized p2p messenger**.
 - Preparing for international undergraduate programs (USA).
-
+<img src="https://github.com/user-attachments/assets/e2889024-6134-40e9-9b8d-5309c85338ac" width="280" align="right" alt="Space Shuttle">
 ### 🛠 Tech Stack & Tools
 
 **Languages:**<br>
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<img src="https://github.com/user-attachments/assets/e2889024-6134-40e9-9b8d-5309c85338ac" width="280" align="right" alt="Space Shuttle">
+
 **Environment:**<br>
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
