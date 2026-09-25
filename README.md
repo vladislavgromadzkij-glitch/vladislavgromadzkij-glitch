@@ -30,7 +30,3 @@ I'm a developer who loves diving into software architecture and figuring out how
 ---
 *«I refuse to write what I don't understand — it is crucial to know why the code is written a certain way and how it impacts performance.»*
 <img src="https://github.com/user-attachments/assets/e2889024-6134-40e9-9b8d-5309c85338ac" width="280" align="right" alt="Space Shuttle">
-
-<div align="right">
-  <img src="https://media.tenor.com/Pibg5g2YVUEAAAAi/linux-tux-rotate.gif" width="80" alt="Linux Tux">
-</div>
