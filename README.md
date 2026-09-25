@@ -1,7 +1,6 @@
 # Hi, I'm Vlad! 👋
 
-
-<img src="<img width="500" height="647" alt="8aa0cdba9a4411e94f337bb317cc97f1a6584de76b1501877b6e66f0dcdd6339" src="https://github.com/user-attachments/assets/e2889024-6134-40e9-9b8d-5309c85338ac" />" width="140" align="right" alt="Space Shuttle">
+<img src="https://github.com/user-attachments/assets/e2889024-6134-40e9-9b8d-5309c85338ac" width="180" align="right" alt="Space Shuttle">
 
 I'm a developer who loves diving into software architecture and figuring out how things work "under the hood". I focus on performance, clean syntax, and understanding memory mechanics rather than just memorizing templates. I have a deep interest in low-level programming, high-load systems, and cybersecurity.
 
@@ -22,6 +21,8 @@ I'm a developer who loves diving into software architecture and figuring out how
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Assembly](https://img.shields.io/badge/assembly-1E4F8A.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 **Environment:**<br>
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
