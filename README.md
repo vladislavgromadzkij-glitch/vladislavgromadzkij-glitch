@@ -4,13 +4,13 @@
 I'm a developer who loves diving into software architecture and figuring out how things work "under the hood". I focus on performance, clean syntax, and understanding memory mechanics rather than just memorizing templates. I have a deep interest in low-level programming, high-load systems, and cybersecurity.
 
 <br clear="both">
-
+<img src="https://github.com/user-attachments/assets/e2889024-6134-40e9-9b8d-5309c85338ac" width="280" align="right" alt="Space Shuttle">
 ### 🎓 Education & Competitive Programming
 - 10th-grade IT student at **School 1329**.
 - Studying at **Samsung IT School Innovation Campus** and **Moscow Coding School (MSP)**.
 - Active participant in competitive programming (VSOSH, Vysshaya Proba, NTO).
 - 1st-degree diploma winner and 1st place in a team programming olympiad.
-<img src="https://github.com/user-attachments/assets/e2889024-6134-40e9-9b8d-5309c85338ac" width="280" align="right" alt="Space Shuttle">
+
 ### 💻 What I'm doing now
 - Developing a custom **decentralized p2p messenger**.
 - Preparing for international undergraduate programs (USA).
