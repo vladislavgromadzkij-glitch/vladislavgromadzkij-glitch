@@ -28,6 +28,8 @@ I'm a developer who loves diving into software architecture and figuring out how
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-<img src="https://media.tenor.com/Pibg5g2YVUEAAAAi/linux-tux-rotate.gif" width="100" align="right" alt="Linux Tux">
-
 *«I refuse to write what I don't understand — it is crucial to know why the code is written a certain way and how it impacts performance.»*
+
+<div align="right">
+  <img src="https://media.tenor.com/Pibg5g2YVUEAAAAi/linux-tux-rotate.gif" width="80" alt="Linux Tux">
+</div>
