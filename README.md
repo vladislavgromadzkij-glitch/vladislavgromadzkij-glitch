@@ -1,7 +1,7 @@
 # Hi, I'm Vlad! 👋
 
-[![Linux Tux](https://media.tenor.com/Pibg5g2YVUEAAAAi/linux-tux-rotate.gif)](https://github.com/vladislavgromadzkij-glitch)
-![Space Cat](https://media.tenor.com/Qe2OqQ2W1l4AAAAC/cat-kitty.gif)
+
+<img src="<img width="500" height="647" alt="8aa0cdba9a4411e94f337bb317cc97f1a6584de76b1501877b6e66f0dcdd6339" src="https://github.com/user-attachments/assets/e2889024-6134-40e9-9b8d-5309c85338ac" />" width="140" align="right" alt="Space Shuttle">
 
 I'm a developer who loves diving into software architecture and figuring out how things work "under the hood". I focus on performance, clean syntax, and understanding memory mechanics rather than just memorizing templates. I have a deep interest in low-level programming, high-load systems, and cybersecurity.
 
